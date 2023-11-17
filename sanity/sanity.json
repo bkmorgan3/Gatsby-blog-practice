@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "kutp3su7",
+    "projectId": "0we050ur",
     "dataset": "production"
   },
   "project": {
-    "name": "slicks-slices"
+    "name": "dog-blog"
   },
   "plugins": [
     "@sanity/base",
