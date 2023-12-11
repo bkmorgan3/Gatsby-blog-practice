@@ -27,7 +27,7 @@ const BlogStyles = styled.div`
 function SingleBlog({ blog }) {
   return (
     <BlogStyles>
-      <Link to={`/blogs/${blog.slug.current}`}>
+      <Link to={`/blog/${blog.slug.current}`}>
         <h2>
           <span className="mark">{blog.title} </span>
         </h2>
